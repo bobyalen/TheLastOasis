@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0d3f0657cfe631245adfc4e2cb8fd68b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - p_playerStats: {fileID: 3163616529434814902, guid: 89463754a35f643438a53cce11c10e1a, type: 3}
+  - p_inventory: {fileID: 9137307401040258604, guid: 4706ec1584bcc5c4ca53d489e7089a43, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

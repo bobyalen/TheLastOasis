@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - Chest
+  - HealthPotion
+  - BossRoom
+  - CoinPile
+  - CoinBag
+  - Boss
+  - Mast
+  - Captain
+  - Chef
+  - Carpenter
+  - Shopkeeper
+  - CabinBoy
+  - Gunner
+  - Surgeon
+  - QuarterMaster
+  - SeaArtist
+  - Destructible
+  - Wheel
+  - DoorWaypoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Door
+  - Enemy
+  - Wall
+  - Player
+  - SelfEnemy
+  - Destructible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

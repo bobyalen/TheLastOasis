@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67ed594a628394c468c33617460cb506, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: 
+  Name: Dude
+  MaxHealth: 10
+  Sprite: {fileID: 0}
+  Type: 0
+  Damage: 5
+  difficulty: 1.5
+  Behaviour: {fileID: 11500000, guid: 7d7ea66a5de1c3e43acfb28eee4622d7, type: 3}
+  prefabToSpawn: {fileID: 2714170247650124136, guid: d551d2569840c454194dcfaa83b36014, type: 3}
+  itemDrops:
+  - itemType: {fileID: 11400000, guid: af2404d67d1727447a4e30258b438d48, type: 2}
+    minItemQuantity: 5
+    maxItemQuantity: 10
+    dropProbability: 1
+  color: {r: 0.9266676, g: 1, b: 0, a: 1}
